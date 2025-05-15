@@ -93,7 +93,7 @@ Aug 2019 – Aug 2023
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charan-pagolu&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charan-pagolu&show_icons=true&theme=tokyonight)  
