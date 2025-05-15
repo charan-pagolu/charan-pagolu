@@ -39,10 +39,13 @@
 - 🧪 Combined CNN-based denoising with pretrained diffusion networks for top-tier realism
 
 #### 🧘‍♂️ Neuroverse – Mental Wellness App  
-*Flutter | Firebase | OpenAI API*  
-- 📱 Cross-platform app with journaling, mood tracking, chatbot, and calendar view  
-- 🤖 Real-time AI chat powered by ChatGPT via Dialogflow  
-- 🔐 Firebase Auth + SQLite for secure, offline-friendly access  
+*Flutter | Firebase | OpenAI API | Flask*  
+- 💬 Emotion-aware chatbot with dynamic survey follow-ups  
+- 📊 Tracks mood patterns and personalizes responses  
+- 🎵 Recommends YouTube songs based on emotional state  
+- 🔐 Firebase Auth + Firestore + offline-friendly journaling  
+- 🌙 Dark mode, typing animations, and smooth chat UX  
+  
 
 ---
 
