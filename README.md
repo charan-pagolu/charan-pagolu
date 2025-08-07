@@ -12,7 +12,7 @@
 - 🎓 **MS in Computer Science** @ University of Dayton (2023–2025)  
 - 🧠 Currently building **voice-powered AI assistants** for healthcare at **DeepMind Scape**  
 - 🛠️ Crafting AI systems that automate real-world problems with low latency + high impact  
-- 🌐 [Check out my portfolio](https://charanpagolu.vercel.app)
+- 🌐 [Check out my portfolio](https://charan-pagolu.vercel.app/)
 
 ---
 
@@ -120,7 +120,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://charanpagolu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-charanpagolu.vercel.app-00c4ff?logo=vercel&logoColor=white" /></a>
+  <a href="https://charan-pagolu.vercel.app"><img src="https://img.shields.io/badge/Portfolio-charanpagolu.vercel.app-00c4ff?logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/charan-pagolu"><img src="https://img.shields.io/badge/LinkedIn-Charan_Pagolu-blue?logo=linkedin" /></a>
   <a href="https://github.com/charan-pagolu"><img src="https://img.shields.io/badge/GitHub-charan--pagolu-black?logo=github" /></a>
 </p>
