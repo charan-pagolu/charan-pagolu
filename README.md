@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#00c4ff;">Charan Pagolu</span></h1>
-<h3 align="center">AI Engineer | Full-Stack Developer | Voice Agent Architect</h3>
+<h3 align="center">AI Engineer | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=charan-pagolu&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
